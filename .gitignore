@@ -1,0 +1,11 @@
+# Vim files
+*.swp
+*.swo
+
+# Packages
+*.zip
+*.xz
+
+# makepkg directories
+src/
+pkg/
