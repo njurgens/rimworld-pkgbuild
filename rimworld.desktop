@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=RimWorld
+Exec=/usr/local/bin/rimworld
+Terminal=false
+Icon=/usr/share/icons/hicolor/128x128/apps/rimworld.png
+Type=Application
+Categories=Game;
