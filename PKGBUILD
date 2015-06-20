@@ -1,4 +1,5 @@
-# PKGBUILD for RimWorld
+# Author: Nick Jurgens <nicholas2010081@gmail.com>
+
 pkgname='rimworld'
 pkgver='0.11.834'
 pkgrel='0'
